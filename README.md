@@ -1,4 +1,4 @@
-## Seja bem Vindo!
+## Welcome!
 <div align="center">
   <a href="https://github.com/leandro-az">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-az&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
